@@ -1,0 +1,11 @@
+C:\Users\Gabriel Piovesan\source\repos\Pixel_Cliker\Pixel_Cliker\bin\Debug\Pixel_Cliker.exe.config
+C:\Users\Gabriel Piovesan\source\repos\Pixel_Cliker\Pixel_Cliker\bin\Debug\Pixel_Cliker.exe
+C:\Users\Gabriel Piovesan\source\repos\Pixel_Cliker\Pixel_Cliker\bin\Debug\Pixel_Cliker.pdb
+C:\Users\Gabriel Piovesan\source\repos\Pixel_Cliker\Pixel_Cliker\obj\Debug\Pixel_Cliker.csprojAssemblyReference.cache
+C:\Users\Gabriel Piovesan\source\repos\Pixel_Cliker\Pixel_Cliker\obj\Debug\Pixel_Cliker.MainMenu.resources
+C:\Users\Gabriel Piovesan\source\repos\Pixel_Cliker\Pixel_Cliker\obj\Debug\Pixel_Cliker.PixelScanner.resources
+C:\Users\Gabriel Piovesan\source\repos\Pixel_Cliker\Pixel_Cliker\obj\Debug\Pixel_Cliker.Properties.Resources.resources
+C:\Users\Gabriel Piovesan\source\repos\Pixel_Cliker\Pixel_Cliker\obj\Debug\Pixel_Cliker.csproj.GenerateResource.cache
+C:\Users\Gabriel Piovesan\source\repos\Pixel_Cliker\Pixel_Cliker\obj\Debug\Pixel_Cliker.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Piovesan\source\repos\Pixel_Cliker\Pixel_Cliker\obj\Debug\Pixel_Cliker.exe
+C:\Users\Gabriel Piovesan\source\repos\Pixel_Cliker\Pixel_Cliker\obj\Debug\Pixel_Cliker.pdb
